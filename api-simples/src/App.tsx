@@ -43,7 +43,17 @@ export default function App() {
     { id: 37, nome: 'Samuel', idade: 22 },
     { id: 38, nome: 'Jéssica', idade: 27 },
     { id: 39, nome: 'Fábio', idade: 40 },
-    { id: 40, nome: 'Marcos', idade: 32 }
+    { id: 40, nome: 'Marcos', idade: 32 },
+    { id: 41, nome: 'Tatiane', idade: 29 },
+    { id: 42, nome: 'Patrícia', idade: 31 },
+    { id: 43, nome: 'Robson', idade: 26 },
+    { id: 44, nome: 'Vanessa', idade: 24 },
+    { id: 45, nome: 'Thiago', idade: 33 },
+    { id: 46, nome: 'Juliana', idade: 21 },
+    { id: 47, nome: 'Gabriela', idade: 34 },
+    { id: 48, nome: 'Lucas', idade: 23 },
+    { id: 49, nome: 'Fernanda', idade: 36 },
+    { id: 50, nome: 'Anderson', idade: 30 }
   ]
   return (
     <div>
