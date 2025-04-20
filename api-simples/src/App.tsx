@@ -24,6 +24,16 @@ export default function App() {
     { id: 18, nome: 'Isabela', idade: 30 },
     { id: 19, nome: 'André', idade: 25 },
     { id: 20, nome: 'Camila', idade: 28 },
+    { id: 21, nome: 'Felipe', idade: 22 },
+    { id: 22, nome: 'Tatiane', idade: 27 },
+    { id: 23, nome: 'Bruno', idade: 40 },
+    { id: 24, nome: 'Aline', idade: 32 },
+    { id: 25, nome: 'Vinícius', idade: 29 },
+    { id: 26, nome: 'Juliano', idade: 31 },
+    { id: 27, nome: 'Natália', idade: 26 },
+    { id: 28, nome: 'Gustavo', idade: 24 },
+    { id: 29, nome: 'Renata', idade: 33 },
+    { id: 30, nome: 'Rafael', idade: 21 }
   ]
   return (
     <div>
